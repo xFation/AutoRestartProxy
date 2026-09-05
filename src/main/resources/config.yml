@@ -1,0 +1,20 @@
+command-permission: "autorestartproxy.use"
+
+send-chat: true
+send-title: true
+
+chat-message: "&dʀᴇꜱᴛᴀʀᴛ ᴄᴀʟᴇᴊ ꜱɪᴇᴄɪ ᴘʀᴏxʏ ᴢᴀ &5{seconds}&d ꜱᴇᴄ"
+title-text: "&5&l! &dᴜᴡᴀɢᴀ &5&l!"
+subtitle-text: "&dʀᴇꜱᴛᴀʀᴛ ꜱɪᴇᴄɪ ᴘʀᴏxʏ ᴢᴀ &5{seconds} &dꜱᴇᴄ"
+
+title-fade-in-millis: 250
+title-stay-millis: 1000
+title-fade-out-millis: 250
+
+usage-message: "&dᴡᴘɪꜱᴢ: &5/ᴀᴜᴛᴏʀᴇꜱᴛᴀʀᴛᴘʀᴏxʏ <ɪʟᴏꜱᴄ ꜱᴇᴄ>"
+invalid-seconds-message: "&dᴘᴏᴅᴀᴊ &5ᴘᴏᴘʀᴀᴡɴᴀ&d ʟɪᴄᴢʙᴇ ꜱᴇᴋᴜɴᴅ"
+no-permission-message: "&5ɴɪᴇ ᴘᴏꜱɪᴀᴅᴀꜱᴢ&d ᴡʏꜱᴛᴀʀᴄᴢᴀᴊᴀᴄʏᴄʜ ᴜᴘʀᴀᴡɴɪᴇɴ ᴅᴏ ᴜᴢʏᴄɪᴀ ᴛᴇᴊ ᴋᴏᴍᴇɴᴅʏ"
+command-started-message: "&5ᴘᴏᴍʏꜱʟɴɪᴇ &dᴜʀᴜᴄʜᴏᴍɪᴏɴᴏ ʀᴇꜱᴛᴀʀᴛ ᴘʀᴏxʏ(&5{seconds} &dꜱᴇᴄ)"
+
+kick-reason-message: "&dʀᴇꜱᴛᴀʀᴛ ꜱɪᴇᴄɪ ᴘʀᴏxʏ &5ᴘʀᴢᴇᴘʀᴀꜱᴢᴀᴍʏ ᴢᴀ ᴜᴛʀᴜᴅɴɪᴇɴɪᴀ"
+restart-delay-after-kick-seconds: 2

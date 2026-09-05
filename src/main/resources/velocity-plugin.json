@@ -1,0 +1,9 @@
+{
+  "id": "AutoRestartProxy",
+  "name": "AutoRestartProxy",
+  "version": "${project.version}",
+  "main": "main",
+  "authors": [
+    "me.xFation"
+  ]
+}
